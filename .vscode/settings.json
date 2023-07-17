@@ -1,3 +1,7 @@
 {
-  "cSpell.words": ["NAND"]
+  "cSpell.words": ["dtype", "NAND", "pylab"],
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+  },
+  "python.formatting.provider": "none"
 }
